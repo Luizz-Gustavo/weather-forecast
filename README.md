@@ -1,3 +1,6 @@
+#What has been done here?
+Initial weather forecast project in Angular where we retrieve meteorological data from the openweather API for cities worldwide.
+
 # WeatherApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.5.
