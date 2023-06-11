@@ -1,4 +1,4 @@
-#What has been done here?
+# What has been done here?
 Initial weather forecast project in Angular where we retrieve meteorological data from the openweather API for cities worldwide.
 
 # WeatherApp
